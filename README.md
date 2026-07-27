@@ -6,13 +6,13 @@ Cyclistic is a bike-share company looking to increase annual memberships. This p
 
 ---
 
-## Business Problem
+## ❓ Business Problem
 
 How do annual members and casual riders use Cyclistic bikes differently, and how can those insights help convert casual riders into annual members?
 
 ---
 
-## Dataset
+## 📂 Dataset
 
 - **Source:** Google Data Analytics Capstone Dataset (Cyclistic)
 - **Time Period:** （Jan–Mar 2025）
@@ -27,7 +27,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ---
 
-## Analysis Process
+## 🔄 Analysis Process
 
 - Cleaned and validated ride data
 - Performed exploratory data analysis (EDA)
@@ -66,7 +66,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 The complete analysis, code, and visualizations are available on Kaggle:
 👉 https://www.kaggle.com/code/kaniayu/notebook1-cyclistic-bike-share-analysis
 
-## Author
+## 👤 Author
 
 Kania Yu
 
