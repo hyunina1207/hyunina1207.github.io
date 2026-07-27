@@ -2,8 +2,7 @@
 
 ## 📌 Project Overview
 
-Cyclistic is a bike-share company looking to increase annual memberships. This project analyzes rider behavior to identify the differences between annual members and casual riders and provides data-driven recommendations to support membership growth.
-
+Cyclistic is a bike-share company aiming to increase annual memberships. This project analyzes the behavioral differences between annual members and casual riders using ride-share data and provides data-driven recommendations to support membership growth.
 ---
 
 ## ❓ Business Problem
@@ -31,7 +30,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 - Cleaned and validated ride data
 - Performed exploratory data analysis (EDA)
-- Compared rider behavior across customer types
+- Compared riding patterns between annual members and casual riders
 - Created visualizations and dashboards
 - Developed business recommendations
 
@@ -48,27 +47,36 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 - Annual members ride more frequently on weekdays.
 - Casual riders are more active on weekends.
-- Casual riders have longer average ride durations.
+- Casual riders have longer average ride durations than annual members.
 
 ---
 
 ## 💡 Business Recommendations
 
-- Launch more promotional packages for members.
-- Offer weekend membership promotions targeting casual riders.
-- Users who engage in long-distance cycling can enjoy a discount by becoming members.
-
+- Introduce targeted weekend membership promotions for casual riders.
+- Offer seasonal membership discounts to encourage membership conversions.
+- Develop marketing campaigns highlighting the cost savings of annual memberships for frequent riders.
 
 ---
 
-## 📂 Kaggle Notebook
+## 🔗 Kaggle Notebook
 
 The complete analysis, code, and visualizations are available on Kaggle:
 👉 https://www.kaggle.com/code/kaniayu/notebook1-cyclistic-bike-share-analysis
 
+---
+
+## 📈 Skills Demonstrated
+
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Business Analysis
+- Data-Driven Decision Making
+
 ## 👤 Author
 
-Kania Yu
+**Kania Yu**
 
 Information Systems Student  
 University of Utah
