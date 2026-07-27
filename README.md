@@ -1,6 +1,6 @@
 # 🚴 Cyclistic Bike-Share Analysis
 
-## Project Overview
+## 📌 Project Overview
 
 Cyclistic is a bike-share company looking to increase annual memberships. This project analyzes rider behavior to identify the differences between annual members and casual riders and provides data-driven recommendations to support membership growth.
 
@@ -20,7 +20,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ---
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 - Excel
 - Python (Pandas)
@@ -37,13 +37,13 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ---
 
-## Dashboard
+## 📊 Dashboard
 
 
 
 ---
 
-## Key Findings
+## 🔍 Key Findings
 
 - Annual members ride more frequently on weekdays.
 - Casual riders are more active on weekends.
@@ -51,7 +51,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ---
 
-## Business Recommendations
+## 💡 Business Recommendations
 
 - Launch more promotional packages for members.
 - Offer weekend membership promotions targeting casual riders.
@@ -60,7 +60,7 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ---
 
-## Kaggle Notebook
+## 📂 Kaggle Notebook
 
 The complete analysis, code, and visualizations are available on Kaggle:
 👉 https://www.kaggle.com/code/kaniayu/notebook1-cyclistic-bike-share-analysis
