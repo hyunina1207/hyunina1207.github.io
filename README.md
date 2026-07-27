@@ -3,6 +3,7 @@
 ## 📌 Project Overview
 
 Cyclistic is a bike-share company aiming to increase annual memberships. This project analyzes the behavioral differences between annual members and casual riders using ride-share data and provides data-driven recommendations to support membership growth.
+
 ---
 
 ## ❓ Business Problem
