@@ -39,7 +39,8 @@ How do annual members and casual riders use Cyclistic bikes differently, and how
 
 ## 📊 Dashboard
 
-
+![Dashboard](images/Dashboard1.png)
+![Dashboard](images/Dashboard2.png)
 
 ---
 
